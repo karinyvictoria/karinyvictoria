@@ -1,20 +1,9 @@
 ## Hi there 👋
-- meu nome é karine mas pode me chamar de kaka
-- gosto muito de ler livros de ficção
-- minha cor favorita é preto
-- estou estudando pelo alura
-- gosto de utilizar a plataforma para compartilhar meus projetos desenvolvidos.
+-⭐ meu nome é karine mas pode me chamar de kaka 🦋
+-⭐ gosto muito de ler livros de ficção 💜
+-⭐ minha cor favorita é preto🌻
+-⭐estou estudando pelo alura💻
+-⭐gosto de utilizar a plataforma para compartilhar meus projetos desenvolvidos🦫
 <!--
-**karinyvictoria/karinyvictoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**karinyvictoria/karinyvictoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profil
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
