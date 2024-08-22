@@ -10,12 +10,14 @@
 
 -⭐gosto de utilizar a plataforma para compartilhar meus projetos desenvolvidos🦫
 
+
+![](https://media.tenor.com/eRGU5l2v-_wAAAAi/cat-meme.gif)
+
+
 <!--
 
 **karinyvictoria/karinyvictoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profil
 
 
-
-![](https://tenor.com/pt-BR/view/besito-catlove-gif-11397231996208728070)
 
 
